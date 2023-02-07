@@ -10,7 +10,7 @@
 python -m pip install --upgrade pip
 pip install --upgrade setuptools
 pip install scrapy
-pip install pypiwin32 (windows 10 OS의 경우 win32 모듈 설치함)
+pip install pypiwin64 (windows 11 OS의 경우 win64 모듈 설치함)
 ```
 
 ### 2. scrapy 정상설치 확인
